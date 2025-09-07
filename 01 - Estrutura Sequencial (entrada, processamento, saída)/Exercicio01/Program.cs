@@ -1,5 +1,6 @@
 ﻿using System;
 using Exe001.Entities;
+
 class Program {
     public static void Main() {
 
