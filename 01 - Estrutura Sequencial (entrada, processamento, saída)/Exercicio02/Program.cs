@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using Exercicio02.Entities;
+
 class Program {
     public static void Main() {
 
