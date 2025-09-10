@@ -14,22 +14,16 @@ namespace Exercicio05.Entities {
             switch (Codigo) {
                 case 1:
                     return 4 * Quantidade;
-                    break;
                 case 2:
                     return 4.50 * Quantidade;
-                    break;
                 case 3:
                     return 5 * Quantidade;
-                    break;
                 case 4:
                     return 2 * Quantidade;
-                    break;
                 case 5:
                     return 1 * Quantidade;
-                    break;
                 default:
                     return 0;
-                    break;
             }
         }
 
