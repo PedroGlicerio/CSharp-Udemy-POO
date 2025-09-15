@@ -32,3 +32,4 @@ namespace Exercicio04.Verificacao {
         }
     }
 }
+9
